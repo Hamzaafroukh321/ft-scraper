@@ -12,7 +12,7 @@ import google.generativeai as genai
 from pptx import Presentation
 from pptx.util import Inches, Pt
 from pptx.dml.color import RGBColor
-from pptx.enum.shapes import MSO_SHAPE  # Added import for MSO_SHAPE
+from pptx.enum.shapes import MSO_SHAPE  
 import os
 
 # ==============================================================================
